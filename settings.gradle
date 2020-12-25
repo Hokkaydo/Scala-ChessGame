@@ -1,0 +1,4 @@
+rootProject.name = 'ChessGame'
+include 'Controller'
+include 'View'
+include 'Model'

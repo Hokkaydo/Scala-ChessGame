@@ -1,0 +1,12 @@
+plugins {
+    id 'scala'
+}
+
+apply from: "${rootProject.rootDir}/scala.gradle"
+
+group 'tech.hokkaydo'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
